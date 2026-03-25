@@ -1,11 +1,12 @@
 <h1 align="center">Hi 👋, I'm Nimasha Sewwandi</h1>
-<h3 align="center">A passionate frontend developer from Sri Lanka</h3>
+<h3 align="center">A passionate IT Student | Exploring the Boundless World of Technology | Sri Lanka</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sewwandinimasha&label=Profile%20views&color=0e75b6&style=flat" alt="sewwandinimasha" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=sewwandinimasha&label=Profile%20views&color=0e75b6&style=flat" alt="sewwandinimasha" /> </p>
+
 ---
 - 🌱 I’m currently learning **software engineering**
 
-- 👨‍💻 I'm Undergraduate at **Esoft Metro Campus**
+- 👨‍💻 I'm Undergraduate Student at **Esoft Metro Campus**
 
 - 📫 How to reach me **sewwandinimasha272@gmail.com**
 
